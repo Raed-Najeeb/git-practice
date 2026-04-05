@@ -4,4 +4,5 @@ This is my third version
 This is my fourth version
 This is the final testing, lez go. 
 Edited from github. 
-Local change version
+<<<<<<< HEAD
+Local change version + Github version change
